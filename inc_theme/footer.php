@@ -1,0 +1,1 @@
+<footer class="footer"> @کپی رایت 2017. پلتفرم نصب کنتور </footer>

@@ -1805,7 +1805,7 @@ File: scss
       margin-top: 0px;
       margin-bottom: 0px; }
     .page-titles .breadcrumb .breadcrumb-item + .breadcrumb-item::before {
-      content: "\e649";
+      content: "\e64a";
       font-family: themify;
       color: #a6b7bf;
       font-size: 11px; }
@@ -5352,7 +5352,7 @@ use profile section
     .user-profile .profile-text > a {
       color: #ffffff !important;
       width: 100%;
-      padding: 6px 30px;
+      padding: 6px 40px;
       background: rgba(0, 0, 0, 0.5);
       display: block; }
       .user-profile .profile-text > a:after {
